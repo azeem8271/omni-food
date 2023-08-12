@@ -21,7 +21,7 @@ follow this link -> [https://azeem8271.github.io/omni-food/](https://azeem8271.g
 3. Install live server extension in your VS Code
 4. Click on Go Live to start local server
 
-## Find a big ?
+## Find a bug ?
 
 If you find an issue or would like to add an improvement to this project, feel free to submit a issue using issue tab above and if you like to submit a PR with a fix, refrence the issue you created.
 
