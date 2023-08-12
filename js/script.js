@@ -1,9 +1,9 @@
 console.log("Hello world!");
 
-const myName = "Jonas Schmedtmann";
+const myName = "Azeem Khan";
 const h1 = document.querySelector(".heading-primary");
 console.log(myName);
-console.log(h1);
+// console.log(h1);
 
 // h1.addEventListener("click", function () {
 //   h1.textContent = myName;
@@ -64,7 +64,7 @@ const sectionHeroEl = document.querySelector(".section-hero");
 const obs = new IntersectionObserver(
   function (entries) {
     const ent = entries[0];
-    console.log(ent);
+    // console.log(ent);
 
     if (ent.isIntersecting === false) {
       document.body.classList.add("sticky");
